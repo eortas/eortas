@@ -1,6 +1,6 @@
 ### Hola 👋, /me llamo **Eduardo**
 #### De **Arquitectura** a la Arquitectura de **Datos**
-![De **Arquitectura** a la Arquitectura de **Datos**](https://i.ibb.co/spqHgmpD/banner.png)
+![De **Arquitectura** a la Arquitectura de **Datos**]([https://i.ibb.co/spqHgmpD/banner.png](https://i.ibb.co/Hf9c0wNW/17448793505281.jpg))
 
 Actualmente cursando un bootcamp de ***Data Science***
 
