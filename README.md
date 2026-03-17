@@ -1,6 +1,6 @@
 ### Hola 👋, /me llamo **Eduardo**
 #### De **Arquitectura** a la Arquitectura de **Datos**
-**Arquitecto & ML Engineer** · Vitoria-Gasteiz, Euskadi
+**Arquitecto & ML Engineer** · Ahora mismo en Katowice, Polonia. Soy de Vitoria-Gasteiz, Euskadi
 
 Arquitecto de formación reconvertido en data scientist.
 Aplico machine learning a problemas con datos reales: vivienda, calidad del aire, ajedrez...
