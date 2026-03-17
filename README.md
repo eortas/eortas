@@ -1,7 +1,5 @@
 ### Hola 👋, /me llamo **Eduardo**
 #### De **Arquitectura** a la Arquitectura de **Datos**
-![De **Arquitectura** a la Arquitectura de **Datos**](https://i.ibb.co/Hf9c0wNW/17448793505281.jpg)
-
 **Arquitecto & ML Engineer** · Vitoria-Gasteiz, Euskadi
 
 Arquitecto de formación reconvertido en data scientist.
