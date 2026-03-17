@@ -3,32 +3,27 @@
 **Arquitecto & ML Engineer** · Vitoria-Gasteiz, Euskadi
 
 Arquitecto de formación reconvertido en data scientist.
-Aplico machine learning a problemas con datos reales: vivienda, calidad del aire, ajedrez.
+Aplico machine learning a problemas con datos reales: vivienda, calidad del aire, ajedrez...
 
 Proyectos
 🏠 Gasteiz Air Quality
-Pipeline automatizado que evalúa el impacto de la Zona de Bajas Emisiones de Vitoria-Gasteiz. Modelos LightGBM para predecir NO₂, PM10 y PM2.5. Inferencia causal con Difference-in-Differences y Synthetic Control. Dashboard operacional publicado vía GitHub Actions + GitHub Pages.
-Python LightGBM Playwright GitHub Actions · ▶ Ver dashboard
+Pipeline automatizado que evalúa el impacto de la Zona de Bajas Emisiones de Vitoria-Gasteiz. Modelos LightGBM para predecir NO₂, PM10 y PM2.5. Inferencia causal con Difference-in-Differences y Synthetic Control. Dashboard operacional publicado  ▶ https://gasteiz-air-quality.vercel.app/
 
 🏡 EDA Vivienda
 Análisis exploratorio del mercado inmobiliario español. Contrasta hipótesis sobre los factores que impulsan el precio: suelo liberado, vivienda turística, demanda pública no satisfecha, inmigración y composición de género en la toma de decisiones políticas.
-Python Pandas Matplotlib Seaborn
 
 🏡 House Price Prediction — WIP
 Modelo de valoración automática de vivienda para Vitoria-Gasteiz, entrenado con datos scrapeados de portales inmobiliarios. En desarrollo activo.
-Python scikit-learn Playwright Pandas
 
 ♟️ ML Chess
 Dos modelos: predicción de ELO a partir de estadísticas de partida (duración, aperturas, blunders), y motor de juego con tablero interactivo que evalúa el nivel del jugador al terminar.
-Python scikit-learn chess
 
 🎮 Pokémon Trainer
 Simulación Monte Carlo para calcular probabilidades de victoria entre equipos Pokémon. Primer proyecto tras el bootcamp: llevar ML a un sistema de combate con variables cruzadas.
-Python Pandas Monte Carlo
+
 
 📋 ML Practice Evaluator
 Plataforma Streamlit que automatiza la evaluación de prácticas de ML: detección de originalidad por similitud de código y valoración cualitativa con IA (Groq API) en cinco dimensiones técnicas.
-Python Streamlit Groq Git
 
 Stack
 Python scikit-learn LightGBM Pandas Playwright Streamlit Supabase Linux
